@@ -39,5 +39,5 @@ This corresponds to ~25% lower capacitance than a symmetric NIPIN design, making
 
 ## Contact
 
-Contributor: **Krish Patel**  
+Contributor: **Krish Patel & Kshitij Agarwal**   
 📧 krish.patel@iitgn.ac.in
